@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theg700.
-- 👀 I’m interested in program.
-- 🌱 I’m currently learning program.
+- 👀 I’m interested in program (C++,Visual SC and others).
+- 🌱 I’m currently learning to program.
 - 💞️ I’m looking to collaborate on somebody.
 - 📫 How to reach me? Email : gabrielca0078@gmail.com
 
